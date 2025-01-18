@@ -7,7 +7,7 @@ const Navbar = () => {
       data-aos="fade-down"
       data-aos-duration="1000"
       >
-        <div className="left nav_items"> Portfolio </div>
+        <div className="left nav_items"> React JS Portfolio</div>
         <div className="right">
           <a href="#home" className="nav_items">Home</a>
           <a href="#experience" className="nav_items">Experience</a>

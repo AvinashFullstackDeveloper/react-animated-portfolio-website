@@ -9,7 +9,7 @@ const Home = () => {
   useEffect(() => {
   
     const options = {
-      strings:["Welcome to my profile","My name is Avinash Gupta","I am MERN Stack Developer","Fullstack Web Developer"],
+      strings:["Welcome to my profile","My name is Avinash Gupta","I am a MERN Stack Developer","Fullstack Web Developer"],
       typeSpeed:50,
       backSpeed:50,
       loop:true

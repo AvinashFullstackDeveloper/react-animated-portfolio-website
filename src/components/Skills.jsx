@@ -5,8 +5,8 @@ import skills from './data/skills.json';
 const Skills = () => {
   return (
     <>
-    <div className="container skills" id="skills">
-        <h1>SKILLS</h1>
+    <div className="container skills" style={{marginTop: '7%'}} id="skills">
+        <h1 style={{marginLeft: '-23%'}}>SKILLS</h1>
         <div className="items">
         {skills.map((data)=> (
             <>
